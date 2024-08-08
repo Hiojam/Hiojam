@@ -7,7 +7,6 @@ Full-Stack Dev
 * 🌍  I'm based in Montevideo, Uruguay.
 * 🖥️  See my portfolio at [hiojam.com](http://hiojam.com)
 * ✉️  You can contact me at [hiojam2020@gmail.com](mailto:hiojam2020@gmail.com)
-* 🚀  I'm currently working on [WorkoutConnect](http://workoutconnect.app)
 
 <a href="https://www.github.com/Hiojam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Hiojam?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
