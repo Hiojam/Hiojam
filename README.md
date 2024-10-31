@@ -5,7 +5,6 @@ Full-Stack Dev
 --------------
 
 * 🌍  I'm based in Montevideo, Uruguay.
-* 🖥️  See my portfolio at [hiojam.com](http://hiojam.com)
 * ✉️  You can contact me at [hiojam2020@gmail.com](mailto:hiojam2020@gmail.com)
 
 <a href="https://www.github.com/Hiojam" target="_blank" rel="noreferrer"><img
